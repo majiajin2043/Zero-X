@@ -89,3 +89,4 @@
   - DOMAIN-SUFFIX,spoti.fi,📺 International-Media
   - IP-CIDR,35.186.224.47/32,📺 International-Media
   - DOMAIN-SUFFIX,tidal.com,📺 International-Media
+  - DOMAIN-SUFFIX,ap.spotify.com,DIRECT
