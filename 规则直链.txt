@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Apple.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Bilibili.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/China-Media.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/China-Websites.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Final.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Google.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Hijacking.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/International-Media.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Microsoft.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Netflix.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Telegram.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Tiktok.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Twitter.list
+https://raw.githubusercontent.com/majiajin2043/Zero-X/main/Youtube.list
